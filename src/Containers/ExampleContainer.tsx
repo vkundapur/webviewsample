@@ -19,6 +19,8 @@ const ExampleContainer = () => {
             source={{
               uri: 'https://plan1test.tiiny.site/',
             }}
+            scrollEnabled={false}
+            bounces={false}
           />
         </View>
       </View>
