@@ -6464,6 +6464,13 @@ react-is@^18.0.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-18.0.0.tgz#026f6c4a27dbe33bf4a35655b9e1327c4e55e3f5"
   integrity sha512-yUcBYdBBbo3QiPsgYDcfQcIkGZHfxOaoE6HLSnr1sPzMhdyxusbfKOSUbSd/ocGi32dxcj366PsTj+5oggeKKw==
 
+react-native-autoheight-webview@^1.6.1:
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/react-native-autoheight-webview/-/react-native-autoheight-webview-1.6.1.tgz#dc404f36577478e91fc83999203999e9c9ea5bd5"
+  integrity sha512-yno5Fo3RBaH/p8ywgGE23xKLaX0aiVFhFLYGlhQh9qKoCUuXnIuH55di3ELutR7MCXHWg/V3a8iBb11HLcPUSA==
+  dependencies:
+    prop-types "^15.7.2"
+
 react-native-codegen@^0.0.8:
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/react-native-codegen/-/react-native-codegen-0.0.8.tgz#b7796a54074139d956fff2862cf1285db43c891b"
